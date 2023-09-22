@@ -1,0 +1,9 @@
+{
+	"name": "demodfv23211",
+	"location": "southeastasia",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "de57dc7f-a670-446a-9446-afa4e1aba93f",
+		"tenantId": "d77ec4e8-c88b-431b-8d7f-77755a4bbefc"
+	}
+}
